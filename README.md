@@ -58,12 +58,4 @@
 
 ---
 
-### 📊 My GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=charos-nguyen&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="charos-nguyen's GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=charos-nguyen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="charos-nguyen's top languages" />
-</p>
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=charos-nguyen&theme=tokyonight" alt="charos-nguyen's contribution streak" />
-</p>
