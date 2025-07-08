@@ -1,9 +1,19 @@
-# <div align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Charos%20Nguyen&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Charos+Nguyen!+%F0%9F%91%8B;Backend+Developer+%F0%9F%9A%80;From+Da+Nang%2C+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="24"> 
+  <b>Passionate Developer</b>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="24">
 </div>
 
 <div align="center">
@@ -24,7 +34,17 @@
   <img src="https://komarev.com/ghpvc/?username=charosnguyen&style=for-the-badge&color=3B82F6" alt="Profile views" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae7-de6e-4f77-b9f3-c2b3b7cfc3c3.gif" width="50">
+</div>
+
 ---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=400&lines=About+Me+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="About Me" />
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> About Me
 
@@ -38,6 +58,10 @@
 - 📍 Location: Da Nang, Vietnam
 
 ---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Tech+Stack+%26+Skills+%F0%9F%9B%A0%EF%B8%8F;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Tech Stack" />
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> Tech Stack & Skills
 
@@ -76,18 +100,31 @@
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD93D&center=true&vCenter=true&width=600&lines=GitHub+Statistics+%F0%9F%93%8A;Code+%26+Contribution+Analytics+%F0%9F%9A%80" alt="GitHub Stats" />
+</div>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charosnguyen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charosnguyen&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=charosnguyen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_owner=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charosnguyen&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charosnguyen&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charosnguyen&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charosnguyen&theme=tokyo-night&hide_border=true&radius=16" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=charosnguyen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A8E6CF&center=true&vCenter=true&width=600&lines=Current+Learning+Journey+%F0%9F%8E%AF;Expanding+My+Knowledge+%F0%9F%9A%80" alt="Learning Path" />
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Current Learning Path
 
@@ -96,6 +133,10 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF8A95&center=true&vCenter=true&width=600&lines=Let's+Connect+%F0%9F%A4%9D;Building+Networks+%26+Relationships+%F0%9F%8C%90" alt="Connect" />
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Let's Connect!
 
@@ -109,5 +150,9 @@
 </div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" />
+</div>
+
+<div align="center">
   <p><em>⭐ From <a href="https://github.com/charosnguyen">Charos Nguyen</a> with ❤️</em></p>
-</di
+</div>
