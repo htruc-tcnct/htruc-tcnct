@@ -97,32 +97,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD93D&center=true&vCenter=true&width=600&lines=GitHub+Statistics+%F0%9F%93%8A;Code+%26+Contribution+Analytics+%F0%9F%9A%80" alt="GitHub Stats" />
-</div>
-
- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charosnguyen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_owner=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charosnguyen&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charosnguyen&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charosnguyen&theme=tokyo-night&hide_border=true&radius=16" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=charosnguyen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A8E6CF&center=true&vCenter=true&width=600&lines=Current+Learning+Journey+%F0%9F%8E%AF;Expanding+My+Knowledge+%F0%9F%9A%80" alt="Learning Path" />
-</div>
-----
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF8A95&center=true&vCenter=true&width=600&lines=Let's+Connect+%F0%9F%A4%9D;Building+Networks+%26+Relationships+%F0%9F%8C%90" alt="Connect" />
@@ -144,5 +118,5 @@
 </div>
 
 <div align="center">
-  <p><em>⭐ From <a href="https://github.com/charosnguyen">Charos Nguyen</a> with ❤️</em></p>
+  <p><em>⭐ From <a href="https://github.com//htruc-tcnct">Charos Nguyen</a> with ❤️</em></p>
 </div>
